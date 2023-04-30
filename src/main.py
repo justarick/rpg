@@ -81,7 +81,6 @@ MAP = {
     },
     'Garden': {
         'display_name': 'Garden',
-        'directions': ['north', 'east', 'south', 'west'],
         'south': 'Hall',
         'items': [],
         'monster': False,
